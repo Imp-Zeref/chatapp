@@ -1,5 +1,4 @@
 import 'package:chatapp/pages/auth_page.dart';
-import 'package:chatapp/pages/loading_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
