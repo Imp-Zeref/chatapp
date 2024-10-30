@@ -14,10 +14,6 @@ class _AuthPageState extends State<AuthPage> {
 
   void _handleSubimit(AuthFormData formdata) {
     setState(() => _isLoading = true);
-
-    print('AuthPage');
-    print(formdata.email);
-
     //setState(() => _isLoading = false);
   }
 
